@@ -1,4 +1,4 @@
-<h1 align="center">Projeto elaborado na UC de Linguagens de Programação I</h1>
+<h1 align="center">Projeto elaborado na UC de </br> Linguagens de Programação I</h1>
 
 # 1. Introdução
 
