@@ -307,44 +307,6 @@ ___.__.___
 >
 ```
  
-## 6. Material a entregar
-
-* Ficheiro `.c` com código devidamente comentado e indentado:
-    - Deve implementar as funcionalidades pedidas.
-    - O código deverá ser submetido na plataforma PANDORA [(2)](#ref2)
-    - A plataforma corre automaticamente uma série de testes e no fim atribui uma classificação **indicativa**. Os alunos deverão analisar o relatório emitido pela plataforma e poderão alterar o código e voltar a submeter o trabalho. Neste trabalho haverá limite de submissões.
-      A plataforma não permite a entrega de trabalhos após a data e hora limite.
-    - Incorrecta indentação do código poderá originar penalizações na nota.
-
-### 6.1 Datas (Projecto Final)
-    - O código deverá ser submetido na plataforma PANDORA [(2)](#ref2) até às **23:59 do dia 28 de Junho de 2021** no *contest* **LP12021PF**.
-
-### 6.2 Datas (Projecto de Recurso)
-    - O código deverá ser submetido na plataforma PANDORA [(2)](#ref2) até às **23:59 do dia 16 de Julho de 2021** no *contest* **LP12021PR**.
-
-### 6.3 Datas (Projecto de Época Especial)
-    - O código deverá ser submetido na plataforma PANDORA [(2)](#ref2) até às **23:59 do dia 14 de Setembro de 2021** no *contest* **LP12021PR**.
- 
-
-## 7. Peso na avaliação
-
-O projecto final vale 20% da nota final e será cotado de 0 a 20 valores.
-
-O projecto de recurso e de época especial valem 50% da nota final e será cotado de 0 a 20 valores.
- 
-A nota indicada pelo pandora é apenas indicativa. O código será posteriormente comparado e avaliado pelos docentes.
-
-Após a entrega do projecto será realizada uma defesa do projecto onde cada elemento do grupo terá de efectuar alterações ao código. Se o aluno não conseguir efectuar as alterações pedidas ao seu código será aplicada uma penalização sobre a nota do projecto que poderá variar entre 10% a 100%.
- 
-Este projecto tem nota mínima.
-
-## 8. Honestidade Académica
-
-Nesta disciplina, espera-se que cada aluno siga os mais altos padrões de honestidade académica. Trabalhos que sejam identificados como cópias serão anulados e os alunos envolvidos terão nota zero - quer tenham copiado, quer tenham deixado copiar.
-Para evitar situações deste género, recomendamos aos alunos que nunca partilhem ou mostrem o seu código.
-A decisão sobre se um trabalho é uma cópia cabe exclusivamente aos docentes da unidade curricular.
-Os alunos são encorajados a discutir os problemas com outros alunos mas não deverão, no entanto, copiar códigos, documentação e relatórios de outros alunos. Em nenhuma circunstância deverão partilhar os seus próprios códigos, documentação e relatórios. De facto, não devem sequer deixar códigos, documentação e relatórios em computadores de uso partilhado.
-
 ## Referências
 
 <a name="ref1"></a>
