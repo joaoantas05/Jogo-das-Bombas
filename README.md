@@ -214,36 +214,9 @@ A mesma mensagem deverá ser mostrada caso alguma coordenada presente no ficheir
 Os alunos deverão criar os seus próprios ficheiros de input para testarem os seus programas. Ficheiros de input criados pelos alunos deverão ser entregues no moodle e serão sujeitos a avaliação. Os alunos deverão criar ficheiros de input válidos e inválidos para poderem testar correctamente os seus programas.
 
 
-## 3. Implemetação
- 
-### 3.1 Mensagens de Erro e códigos de saída
-**Atenção!** As mensagens de erro são diferentes das que foram utilizadas no mini projecto. Para facilitar a implementação, as mensagens de erro são fornecidas num header file - ![messages.h](messages.h) que poderá ser incluído no código utiliando a directiva
- ```
- #include "messages.h"
- ```
- 
- O programa deve sempre terminar com o código de retorno 0. O código de retorno do programa é o valor que a função  `main()` retorna. Alternativamente, podem utilizar a função `exit(0)` da biblioteca `stdlib.h` que permite terminar o programa fora da função da função `main()`.
-  
-### 3.2 - Simulação
+## 3.  Exemplo de utilização
 
-Deverá ser criada uma lista de eventos. Cada explosão que ocorre irá gerar eventos que deverão ser colocados na lista. Esta lista deverá ser percorrida até que já não existam eventos. 
-
-Cada evento está associado a um tempo, e a uma coordenada de uma bomba. (A implementação mais simples será utilizar uma estrutura.) A lista de eventos deverá ser implementada recorrendo a uma lista ligada em que a inserção na lista é feita de forma ordenada. Ou seja, quando um evento é criado, ele é colocado na lista de forma ordenada, e assim a primeira posição da lista é sempre o evento com menor `t`.
-
-O seguinte fluxograma apresenta uma possível implementação:
- 
-![simulation_flowchart](simulation_flowchart.png)
-
-## 4. Opção Extra
-Se o programa for corrido com a opção `-a` (como argumento do main) deverá ser utilizada a biblioteca ncurses.h para apresentação do mapa e do menu do programa. Esta opção não 
-será avaliada pelo PANDORA.
-
-Um exemplo de funcionamento utilizando a biblioteca ncurses pode ser visualizado no vídeo https://youtu.be/xb7Y4He2tvA.
- 
-
-## 5.  Exemplo de utilização
-
-### 5.1. Exemplo opção log
+### 3.1. Exemplo opção log
 ```bash
 ./bombroad map0.ini
 +-----------------------------------------------------+
