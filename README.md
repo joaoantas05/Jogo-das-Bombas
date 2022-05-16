@@ -1,3 +1,5 @@
+# Jogo das Bombas
+
 <h1 align="center">Projeto elaborado na UC de </br> Linguagens de Programação I</h1>
 
 # 1. Introdução
